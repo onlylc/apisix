@@ -1,0 +1,20 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "c70f94d9103033279b2b30de5af84787",
+      ["README.md"] = "efd77c4687711f39aba42c5eee9d0949"
+   },
+   lib = {
+      ["rasn.so"] = "e3483d9665b1f0870f98ae60a68cd445"
+   },
+   lua = {
+      resty = {
+         ldap = {
+            ["asn1.lua"] = "7c70f6214b04b040cb1d0d94be612995",
+            ["client.lua"] = "dc29e0ef4781130f09b9a88d321c4134",
+            ["filter.lua"] = "0e0498fbc6b79fad494258b5c7ab3437",
+            ["protocol.lua"] = "516209d761ac7bef8f51cf4a4b7cdfb7"
+         }
+      }
+   },
+   ["lua-resty-ldap-0.2.2-0.rockspec"] = "dd454ed8a1aeb4f9293b04c255992ebe"
+}
